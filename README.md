@@ -1,5 +1,5 @@
 ### Hello there! 👋
-My name is Ruslan, here are some info about my coding experience:
+My name is Ruslan, here are some stats about my coding experience:
 
 **School 21 progress**
 <!--
