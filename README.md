@@ -48,6 +48,6 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="#">
-      <img src="https://visitor-badge.glitch.me/badge?page_id=Mitsu325.RusDaminov" />
+      <img src="https://visitor-badge.glitch.me/badge?page_id=Rusdaminov.RusDaminov" />
    </a>
 </p>
