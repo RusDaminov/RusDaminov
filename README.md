@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 **Time left before deadline**
 
 [countdown](https://countdown.onlinealarmkur.com/ru/#2022-01-21T12:00)
+<iframe id="oak-embed" width="480" height="80" style="display: block; margin: 0px auto; border: 0px;" src="https://embed-countdown.onlinealarmkur.com/ru/#2022-01-01T00:00:00@Europe%2FMoscow"></iframe>
 ## My Development Stack
 
 **Application and Data**
