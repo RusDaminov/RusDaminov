@@ -36,3 +36,18 @@ Here are some ideas to get you started:
 <code><img height="32" src="https://img.utdstc.com/icon/c2f/773/c2f7733df6524599afea694769062bc12d389fb4178f8be7b644c5e802fbbc17:200" alt="VirtualBox"/></code>
 
 
+## Coding Activity
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mitsu325&show_icons=true&theme=dracula" alt="Mitsu325's github stats" />
+</p>
+
+<br/>
+
+<p align="right">
+  <a href="#">
+      <img src="https://visitor-badge.glitch.me/badge?page_id=Mitsu325.Mitsu325" />
+   </a>
+</p>
