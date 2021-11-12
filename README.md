@@ -41,13 +41,13 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mitsu325&show_icons=true&theme=dracula" alt="Mitsu325's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RusDaminov&show_icons=true&theme=dracula" alt="RusDaminov's github stats" />
 </p>
 
 <br/>
 
 <p align="right">
   <a href="#">
-      <img src="https://visitor-badge.glitch.me/badge?page_id=Mitsu325.Mitsu325" />
+      <img src="https://visitor-badge.glitch.me/badge?page_id=Mitsu325.RusDaminov" />
    </a>
 </p>
