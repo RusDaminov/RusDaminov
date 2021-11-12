@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=RusDaminov&show_icons=true&theme=dracula" alt="RusDaminov's github stats" />
 </p>
 
