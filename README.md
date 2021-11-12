@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 ![My progress](https://badge42.herokuapp.com/api/stats/abernita)
 
+
+**Time left before deadline**
+
+[countdown](https://countdown.onlinealarmkur.com/ru/#2022-01-21T12:00)
 ## My Development Stack
 
 **Application and Data**
