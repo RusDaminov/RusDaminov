@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<p align="right">
+<p align="left">
   <a href="#">
       <img src="https://visitor-badge.glitch.me/badge?page_id=Mitsu325.RusDaminov" />
    </a>
