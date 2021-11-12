@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 **Time left before deadline**
 
 [countdown](https://countdown.onlinealarmkur.com/ru/#2022-01-21T12:00)
-<iframe id="oak-embed" width="480" height="80" style="display: block; margin: 0px auto; border: 0px;" src="https://embed-countdown.onlinealarmkur.com/ru/#2022-01-01T00:00:00@Europe%2FMoscow"></iframe>
+<code><iframe id="oak-embed" width="480" height="80" style="border: 0px;" src="https://embed-countdown.onlinealarmkur.com/ru/#2022-01-21T00:00:00@Europe%2FMoscow"></iframe></code>
+<br/>
+
 ## My Development Stack
 
 **Application and Data**
@@ -32,7 +34,7 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=f8d05e)
 ![Markdown](https://img.shields.io/badge/-Markdown-090909?style=for-the-badge&logo=markdown&logoColor=ffffff)
 
-<br />
+<br/>
 
 **DevOps**
 
