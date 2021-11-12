@@ -1,6 +1,7 @@
 ### Hello there! 👋
-My name is Ruslan,
+My name is Ruslan, here sre some info about my coding experience:
 
+**School 21 progress**
 <!--
 **RusDaminov/RusDaminov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
