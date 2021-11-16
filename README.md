@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/c-090909?style=for-the-badge&logo=C&logoColor=#7f8b99)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=f8d05e)
 ![Markdown](https://img.shields.io/badge/-Markdown-090909?style=for-the-badge&logo=markdown&logoColor=ffffff)
-
 <br/>
+
 **DevOps**
 
 <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
