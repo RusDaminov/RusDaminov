@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 ![Markdown](https://img.shields.io/badge/-Markdown-090909?style=for-the-badge&logo=markdown&logoColor=ffffff)
 
 <br/>
-
 **DevOps**
 
 <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
