@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 **Time left before deadline**
 
-[countdown](https://countdown.onlinealarmkur.com/ru/#2022-02-04T12:00)
+[countdown](https://countdown.onlinealarmkur.com/ru/#2022-04-14T12:00)
 
 ## My Development Stack
 
