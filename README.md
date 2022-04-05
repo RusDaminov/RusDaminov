@@ -4,8 +4,8 @@ My name is Ruslan, here are some stats about my coding experience:
 **School 21 progress**
 <!--
 **RusDaminov/RusDaminov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
 
 [![abernita's 42 stats](https://badge42.vercel.app/api/v2/cl1lx6ro1006409mn613u6flc/stats?cursusId=21&coalitionId=104)](https://github.com/JaeSeoKim/badge42)
 
