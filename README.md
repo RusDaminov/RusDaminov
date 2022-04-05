@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![My progress](https://badge42.herokuapp.com/api/stats/abernita)
+![My progress](https://badge42.vercel.app/api/v2/cl1lx6ro1006409mn613u6flc/stats?cursusId=21&coalitionId=99)
 
 
 **Time left before deadline**
