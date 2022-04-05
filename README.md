@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![My progress](https://badge42.vercel.app/api/v2/cl1lx6ro1006409mn613u6flc/stats?cursusId=21&coalitionId=99)
+![My progress]
+
+[![abernita's 42 stats](https://badge42.vercel.app/api/v2/cl1lx6ro1006409mn613u6flc/stats?cursusId=21&coalitionId=99)](https://github.com/JaeSeoKim/badge42)
 
 
 **Time left before deadline**
