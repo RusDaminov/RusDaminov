@@ -58,3 +58,5 @@ My name is Ruslan, here are some stats about my coding experience:
  pipex  -  [![abernita's 42 so_long Score](https://badge42.vercel.app/api/v2/cl1lx6ro1006409mn613u6flc/project/2474302)](https://github.com/JaeSeoKim/badge42)
 
  so_long  -  [![abernita's 42 so_long Score](https://badge42.vercel.app/api/v2/cl1lx6ro1006409mn613u6flc/project/2474302)](https://github.com/JaeSeoKim/badge42)
+ 
+ push_swap - [![abernita's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl1lx6ro1006409mn613u6flc/project/2552267)](https://github.com/JaeSeoKim/badge42)
