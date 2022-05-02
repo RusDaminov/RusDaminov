@@ -62,3 +62,5 @@ My name is Ruslan, here are some stats about my coding experience:
  push_swap - [![abernita's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl1lx6ro1006409mn613u6flc/project/2552267)](https://github.com/JaeSeoKim/badge42)
 
 Exam_rank_03 - [![abernita's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl1lx6ro1006409mn613u6flc/project/2562785)](https://github.com/JaeSeoKim/badge42)
+
+Philosophers - [![abernita's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl1lx6ro1006409mn613u6flc/project/2577510)](https://github.com/JaeSeoKim/badge42)
