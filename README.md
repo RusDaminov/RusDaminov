@@ -66,3 +66,13 @@ Exam_rank_03 - [![abernita's 42 Exam Rank 03 Score](https://badge42.vercel.app/a
 Philosophers - [![abernita's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl1lx6ro1006409mn613u6flc/project/2577510)](https://github.com/JaeSeoKim/badge42)
 
 minishell - [![abernita's 42 minishell Score](https://badge42.vercel.app/api/v2/cl1lx6ro1006409mn613u6flc/project/2640426)](https://github.com/JaeSeoKim/badge42)
+
+WIP:
+
+CPP modules
+
+Cub3D
+
+NetPractice
+
+Exam_rank_04
