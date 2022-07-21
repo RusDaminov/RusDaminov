@@ -67,6 +67,8 @@ Philosophers - [![abernita's 42 Philosophers Score](https://badge42.vercel.app/a
 
 minishell - [![abernita's 42 minishell Score](https://badge42.vercel.app/api/v2/cl1lx6ro1006409mn613u6flc/project/2640426)](https://github.com/JaeSeoKim/badge42)
 
+Exam_rank_04 - [![abernita's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl1lx6ro1006409mn613u6flc/project/2644983)](https://github.com/JaeSeoKim/badge42)
+
 WIP:
 
 CPP modules
@@ -74,5 +76,3 @@ CPP modules
 Cub3D
 
 NetPractice
-
-Exam_rank_04
