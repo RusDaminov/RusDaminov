@@ -75,6 +75,4 @@ WIP:
 
 CPP modules
 
-Cub3D
-
 NetPractice
