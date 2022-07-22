@@ -73,6 +73,6 @@ Exam_rank_04 - [![abernita's 42 Exam Rank 04 Score](https://badge42.vercel.app/a
 
 WIP:
 
-CPP modules
+CPP modules 6/9
 
 NetPractice
