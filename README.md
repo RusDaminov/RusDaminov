@@ -11,7 +11,7 @@ My name is Ruslan, here are some stats about my coding experience:
 
 **Time left before deadline**
 
-[countdown](https://countdown.onlinealarmkur.com/ru/#2022-08-08T12:00)
+[countdown](https://countdown.onlinealarmkur.com/ru/#2022-09-22T12:00)
 
 ## My Development Stack
 
