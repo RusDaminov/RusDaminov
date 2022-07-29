@@ -71,8 +71,10 @@ Cub3D - [![abernita's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl1lx6ro
 
 Exam_rank_04 - [![abernita's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl1lx6ro1006409mn613u6flc/project/2644983)](https://github.com/JaeSeoKim/badge42)
 
+CPP modules - [![abernita's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl1lx6ro1006409mn613u6flc/project/2689571)](https://github.com/JaeSeoKim/badge42)
+
 WIP:
 
-CPP modules 6/9
-
 NetPractice
+
+Java Piscine
