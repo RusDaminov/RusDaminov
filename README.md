@@ -73,8 +73,8 @@ Exam_rank_04 - [![abernita's 42 Exam Rank 04 Score](https://badge42.vercel.app/a
 
 CPP modules - [![abernita's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl1lx6ro1006409mn613u6flc/project/2689571)](https://github.com/JaeSeoKim/badge42)
 
+Java Piscine - [![abernita's 42 Piscine Java Score](https://badge42.vercel.app/api/v2/cl1lx6ro1006409mn613u6flc/project/2669856)](https://github.com/JaeSeoKim/badge42)
+
 WIP:
 
 NetPractice
-
-Java Piscine
