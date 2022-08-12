@@ -75,8 +75,10 @@ CPP modules - [![abernita's 42 CPP Module 08 Score](https://badge42.vercel.app/a
 
 Java Piscine - [![abernita's 42 Piscine Java Score](https://badge42.vercel.app/api/v2/cl1lx6ro1006409mn613u6flc/project/2669856)](https://github.com/JaeSeoKim/badge42)
 
+NetPractice
+
 WIP:
 
-NetPractice
+Swift iOs piscine
 
 Exam_rank_05
