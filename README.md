@@ -81,7 +81,7 @@ ft_containers - [![abernita's 42 ft_containers Score](https://badge42.vercel.app
 
 Exam_rank_05 - [![abernita's 42 Exam Rank 05 Score](https://badge42.vercel.app/api/v2/cl1lx6ro1006409mn613u6flc/project/2722646)](https://github.com/JaeSeoKim/badge42)
 
-webserv - 
+webserv - [![abernita's 42 webserv Score](https://badge42.vercel.app/api/v2/cl1lx6ro1006409mn613u6flc/project/2722654)](https://github.com/JaeSeoKim/badge42)
 
 WIP:
 
