@@ -85,12 +85,8 @@ webserv - [![abernita's 42 webserv Score](https://badge42.vercel.app/api/v2/cl1l
 
 inception - [![abernita's 42 Inception Score](https://badge42.vercel.app/api/v2/cl1lx6ro1006409mn613u6flc/project/2722653)](https://github.com/JaeSeoKim/badge42)
 
- - [![abernita's 42 Exam Rank 06 Score](https://badge42.vercel.app/api/v2/cl1lx6ro1006409mn613u6flc/project/2836978)](https://github.com/JaeSeoKim/badge42)
+Exam_rank_06 - [![abernita's 42 Exam Rank 06 Score](https://badge42.vercel.app/api/v2/cl1lx6ro1006409mn613u6flc/project/2836978)](https://github.com/JaeSeoKim/badge42)
 
 WIP:
 
-irc
-
-
-
-Exam_rank_06
+ft_irc
