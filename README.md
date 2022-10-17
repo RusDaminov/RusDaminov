@@ -83,10 +83,12 @@ Exam_rank_05 - [![abernita's 42 Exam Rank 05 Score](https://badge42.vercel.app/a
 
 webserv - [![abernita's 42 webserv Score](https://badge42.vercel.app/api/v2/cl1lx6ro1006409mn613u6flc/project/2722654)](https://github.com/JaeSeoKim/badge42)
 
+inception - [![abernita's 42 Inception Score](https://badge42.vercel.app/api/v2/cl1lx6ro1006409mn613u6flc/project/2722653)](https://github.com/JaeSeoKim/badge42)
+
 WIP:
 
-webserv/irc
+irc
 
-inception
+
 
 Exam_rank_06
