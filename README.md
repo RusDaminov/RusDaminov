@@ -7,9 +7,6 @@ My name is Ruslan, here are some stats about my coding experience:
 -->
 
 
-[![abernita's 42 stats](https://badge42.vercel.app/api/v2/cl1lx6ro1006409mn613u6flc/stats?cursusId=21&coalitionId=104)](https://github.com/JaeSeoKim/badge42)
-
-**Time left before deadline**
 
 [countdown](https://onlinealarmkur.com/countdown/ru/#2023-10-21T12%3A00)
 
